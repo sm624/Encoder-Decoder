@@ -1,0 +1,20 @@
+encode shift 23
+1
+THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
+decode shift 23
+1
+QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD
+encode combine LEMON
+1
+ATTACK AT DAWN
+decode combine LEMON
+1
+LXFOPV EF RNHR
+encode altCombine ALBERTA
+2
+CALGARY
+Attack At Dawn
+decode altCombine ALBERTA
+2
+CPMCRYY
+Aiuwtr At Sbse
