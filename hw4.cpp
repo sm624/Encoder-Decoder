@@ -1,5 +1,3 @@
-//Shaun McCormick
-//CSCI230-001
 //This program encodes and decodes messages using file codes.dat 
 
 #include <iostream>
